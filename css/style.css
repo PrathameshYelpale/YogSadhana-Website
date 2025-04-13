@@ -87,6 +87,11 @@ img {
 	max-width: 100%;
 }
 
+.footer__about img {
+	background: whitesmoke;
+    border-radius: 20px;
+}
+
 input:focus,
 select:focus,
 button:focus,
